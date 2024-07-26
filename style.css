@@ -337,14 +337,15 @@ section {
 
 #work-history-div {
   display: flex;
-  gap: 1rem;
-  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  align-items: start;
 }
 
 #work-history-div2 {
   display: flex;
-  gap: 81px;
-  align-items: center;
+  justify-content: space-between;
+  align-items: start;
 }
 
 #experience {
